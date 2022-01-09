@@ -61,3 +61,7 @@ li {
 .weather-icon {
   padding: 0 20 20px;
 }
+.weather-app-wrapper {
+  max-width: 600px;
+  margin: 30px auto;
+}
